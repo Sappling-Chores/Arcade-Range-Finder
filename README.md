@@ -72,7 +72,7 @@ Note : I updated checkout pages because there were some components out of stocks
 
 Note: I have not inlcuded breadboard in the cad because it was not part of the final product.
 But I really need one.
-## NOTE : I dont know why I named it Esp32 Arcade range finder in blueprint. That was a mistake. I will rename it I hope that doesnt cause the problem.
+## NOTE : I dont know why I named it ''sp32 Arcade range finder'' in blueprint. That was a mistake. I will rename it I hope that doesnt cause the problem.
 
 thanks to :
   Blueprint and Hackclub!
