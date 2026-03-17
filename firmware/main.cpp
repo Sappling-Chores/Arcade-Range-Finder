@@ -10,15 +10,15 @@
 #define OLED_RESET -1
 #define SCREEN_ADDRESS 0x3C
 
-const int pushbuttonRed = 19;
-const int pushbuttonBlue = 18;
-const int trigPin = 14;
-const int echoPin = 27;
+const int pushbuttonRed = 15;
+const int pushbuttonBlue = 16;
+const int trigPin = 10;
+const int echoPin = 7;
 const int SDAPin = 4;
 const int SCLPin = 5;
 const int servoPin = 6;
 const int buzzerPin = 13;
-const int potPin = 8;
+const int potPin = 17;
 
 Servo myservo;
 OneButton buttonRed(pushbuttonRed, true);
