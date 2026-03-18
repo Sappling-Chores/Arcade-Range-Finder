@@ -10,7 +10,7 @@
 
 
 ## What this project do?
-Arcade-Range-Finder is a ESP32 S3 C6 based range finder which uses Ultrasonic sensor and oled display to show the range in a very unique way.
+Arcade-Range-Finder is a ESP32 S3 based range finder which uses Ultrasonic sensor and oled display to show the range in a very unique way.
 This project has three modes controlled by pushButtons. 
 Mode 1 & 2: Radar like display which shows Blits when an object is detected in range.
 Mode 1 Specific - Manual Cntrol servo with Potentiometer.
@@ -24,14 +24,15 @@ We also have small box which copies the x-cordinates of ball so everytime ball t
 I have seen multiple range finder but almost all of them had radar like display, but I wanted to do something different and unique.
 
 
-# Wiring:
-## This project doesnt uses pcb so its a simple wiring diagram .
+## Wiring:
+
+### This project doesnt uses pcb so its a simple wiring diagram .
 
 ![Assets/Circuit_Image.png](Assets/Circuit_Image.png)
 
-Note: Do not power servos and ultrasonic sensor with MCU.
+Note (important): Do not power servos and ultrasonic sensor with MCU.
 
-# Cad:
+## Cad:
 
 <img width="1219" height="729" alt="{B3FAAC0A-0B31-4C0B-A097-FDF3A977DD9B}" src="https://github.com/user-attachments/assets/16b011bd-acd2-4439-8f7d-0586f62fa6af" />
 
@@ -53,14 +54,21 @@ Note: Do not power servos and ultrasonic sensor with MCU.
 | 8 | Breadboard | 1 | 61 | 0.66 | https://robu.in/product/mb102-830-points-solderless-prototype-pcb-breadboard-high-quality/ |
 | 9 | Jumper Wire Set | 1 | 128 | 1.39 | https://robocraze.com/products/jumper-wire-set-m2m-m2f-f2f-40-pcs-each?variant=40192573636761 |
 | 10 | 10k Rotary Potentiometer | 5 pcs | 66 | 0.71 | https://robocraze.com/products/10k-ohm-16mm-rotatory-variable-potentiometer-pack-of-5 |
-| 11 | Shipping (Robocraze) | | 52 | 0.56 | - |
-| 12 | Shipping (Robu.in) | | 0 | 0.00 | - |
-| | **Total** | | **1899** | **20.55** | - |
-
-
+| 11 | Header Pins | 3 | 18 | 0.19 | https://robocraze.com/products/40x1-pin-2-54mm-pitch-male-berg-strip?_pos=3&_sid=467fd7cec&_ss=r |
+| 12 | Shipping (Robocraze) | | 49 | 0.53 | - |
+| 13 | Shipping (Robu.in) | | 0 | 0.00 | - |
+| | **Total** | | **1914** | **20.71** | - |
 
 Note: I have not inlcuded breadboard in the cad because it was not part of the final product.
 But I really need one.
+
+## Navigation (Directory)
+
+[Assets](./Assets/)  
+[Body](./Body/)  
+[Cad-Assembly](./Cad-Assembly/)  
+[firmware](./firmware/)  
+[Production](./Production/)  
 
 
 thanks to :
