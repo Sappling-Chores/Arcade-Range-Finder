@@ -58,7 +58,6 @@ Note (important): Do not power servos and ultrasonic sensor with MCU.
 | 12 | Shipping (Robocraze) | | 49 | 0.53 | - |
 | 13 | Shipping (Robu.in) | | 0 | 0.00 | - |
 | | **Total** | | **1914** | **20.71** | - |
-
 Note: I have not inlcuded breadboard in the cad because it was not part of the final product.
 But I really need one.
 
