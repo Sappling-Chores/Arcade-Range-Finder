@@ -6,9 +6,6 @@
 
 ![Assets/render.png](Assets/render.png)
 
-[![alt text](Assets/Build_Image-Mode_Pink.jpeg)](https://www.youtube.com/shorts/_ePr5tWmdso)
-
-[![alt text](Assets/Build_Image-Mode_Green.jpeg)](https://www.youtube.com/shorts/_ePr5tWmdso)
 
 </div>
 
