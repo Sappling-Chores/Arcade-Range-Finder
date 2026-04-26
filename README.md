@@ -72,7 +72,6 @@ But I really need one.
 
 
 thanks to :
-  Blueprint and Hackclub!
-
+Made with love by sarfaraz!!
 
 
