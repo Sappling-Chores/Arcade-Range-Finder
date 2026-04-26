@@ -70,8 +70,6 @@ But I really need one.
 [firmware](./firmware/)  
 [Production](./Production/)  
 
-
-thanks to :
 Made with love by sarfaraz!!
 
 
